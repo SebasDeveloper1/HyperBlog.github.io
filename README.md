@@ -14,5 +14,6 @@ Todos los comandos de Git
 - Creado por el increíble Platzi Team
 - Incluye ejemplos en Windows, Linux y Mac
 - Disponible para todas las edades
+- Es un proyecto increible
 
 Y como un amable recordatorio: Este readme.md es un chiste. Diseñado para el ejemplo. Si llegas acá NO TE LO TOMES EN SERIO y mejor ve a **[Ver el curso 👍](https://platzi.com/cursos/git-github/ "Ver el curso 👍").**
